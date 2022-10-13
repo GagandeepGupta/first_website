@@ -13,8 +13,8 @@ function Like(props) {
     props.toggleWishlist(props.product)
   }
 // lga kar
-
-  useEffect(() => {
+//koi baat nahi
+useEffect(() => {
     if (props.wishlistItems){
       let existed_item = props.wishlistItems.find(
         item => props.product.id === item.id
@@ -103,5 +103,4 @@ function Like(props) {
 const mapStateToProps = state => ({
   wishlistItems: state.wishlist.wishlistItems
 })
-
 export default connect(mapStateToProps, {toggleWishlist})(Like);
