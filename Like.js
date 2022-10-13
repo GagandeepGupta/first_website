@@ -55,11 +55,13 @@ function Like(props) {
             cy="29.5"
             r="1.5"
           />
+          //groups
 
           <g id="grp7" opacity="0" transform="translate(7 6)">
             <circle id="oval1" fill="#9CD8C3" cx="2" cy="6" r="2" />
             <circle id="oval2" fill="#8CE8C3" cx="5" cy="2" r="2" />
           </g>
+          //Group6
 
           <g id="grp6" opacity="0" transform="translate(0 28)">
             <circle id="oval1" fill="#CC8EF5" cx="2" cy="7" r="2" />
@@ -80,6 +82,7 @@ function Like(props) {
             <circle id="oval1" fill="#91D2FA" cx="6" cy="5" r="2" />
             <circle id="oval2" fill="#91D2FA" cx="2" cy="2" r="2" />
           </g>
+         //group 4
 
           <g id="grp4" opacity="0" transform="translate(35 50)">
             <circle id="oval1" fill="#F48EA7" cx="6" cy="5" r="2" />
