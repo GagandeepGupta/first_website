@@ -82,12 +82,14 @@ function Like(props) {
           <g id="grp5" opacity="0" transform="translate(14 50)">
             <circle id="oval1" fill="#91D2FA" cx="6" cy="5" r="2" />
             <circle id="oval2" fill="#91D2FA" cx="2" cy="2" r="2" />
+             <circle id="oval2" fill="#91D2FA" cx="2" cy="2" r="2" />
           </g>
          //group 4
 
           <g id="grp4" opacity="0" transform="translate(35 50)">
             <circle id="oval1" fill="#F48EA7" cx="6" cy="5" r="2" />
             <circle id="oval2" fill="#F48EA7" cx="2" cy="2" r="2" />
+             <circle id="oval2" fill="#91D2FA" cx="2" cy="2" r="2" />
           </g>
 
           <g id="grp1" opacity="0" transform="translate(24)">
