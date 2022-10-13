@@ -12,6 +12,7 @@ function Like(props) {
     setChecked(prevState => !prevState);
     props.toggleWishlist(props.product)
   }
+// lga kar
 
   useEffect(() => {
     if (props.wishlistItems){
